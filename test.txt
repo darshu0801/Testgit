@@ -1,4 +1,5 @@
 this is my first text file
-dbks
-dbks
-dbks
+to add file into repositry:-git add test.txt
+to check status:-git status
+to upload the chgs made in the local folder:-git commit -m "anything(better choose the number of commits u hv done to tht file)"
+after commit:-git push -u origin main
